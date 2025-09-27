@@ -1,1 +1,11 @@
-# ERSM
+This repository contains the notebooks and scripts used for ```ERSM Paper Title Here```. 
+
+### Repository Organization
+* ```data_and_results```: Contains the raw data used for the experiments and the raw results (not processed nor visualized). It divided up the results by the final paper, AGU poster presentation, and a test conducted using data collected by Edwards AFB. 
+* ```*.ipynb```: These are the notebooks used to run the kNN and neural-net models. All scripts include the linear regression model (as computed in ```MAMMAL```).
+* ```mammal```: Contains the version of the [```MAMMAL```](https://github.com/PowerBroker2/MAMMAL) library used in this work. 
+* ```*.py```: Utility scripts used to run data and move the raw data into a directory structure usable by the notebooks. 
+* ```old_files.zip```: Files that were used in our preliminary testing and development. 
+* ```preliminary_experiments.zip```: These are experiments we ran while developing extensions to the model.
+* ```experiments.sh```: A sample script to run several experiments synchronously.   
+* ```exp_env.yml```: The environment used to run experiments.
