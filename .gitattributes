@@ -1,1 +1,6 @@
 data_and_results/** filter=lfs diff=lfs merge=lfs -text
+data_and_results/agu_data_results.zip filter=lfs diff=lfs merge=lfs -text
+data_and_results/ersm_paper_data_results.zip filter=lfs diff=lfs merge=lfs -text
+data_and_results/edwards_test.zip filter=lfs diff=lfs merge=lfs -text
+data_and_results/unused_data.zip filter=lfs diff=lfs merge=lfs -text
+preliminary_experiments.zip filter=lfs diff=lfs merge=lfs -text
