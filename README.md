@@ -1,3 +1,9 @@
+Distribution A: Approved for Public Release. Distribution Unlimited. 
+
+The views expressed herein are those of the authors and do not necessarily reflect the official policy or position of the United States Government, Department of Defense, United States Air Force or Air University. 
+
+
+
 This repository contains the notebooks and scripts used for ```ERSM Paper Title Here```. 
 
 ### Repository Organization
