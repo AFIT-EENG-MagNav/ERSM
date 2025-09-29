@@ -1,4 +1,6 @@
-Distribution A: Approved for Public Release. Distribution Unlimited. 
+[![DOI](https://zenodo.org/badge/1065409449.svg)](https://doi.org/10.5281/zenodo.17226837)
+
+**Distribution A**: Approved for Public Release. Distribution Unlimited. 
 
 The views expressed herein are those of the authors and do not necessarily reflect the official policy or position of the United States Government, Department of Defense, United States Air Force or Air University. 
 
